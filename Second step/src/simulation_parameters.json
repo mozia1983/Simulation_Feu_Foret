@@ -1,0 +1,6 @@
+{
+  "nbRows": 4,
+  "nbColumns": 4,
+  "ignitionProbability": 1.0 ,
+  "pitCellsIndices": [{"rowIndex": 1,"columnIndex": 1},{"rowIndex": 2,"columnIndex": 2}]
+}
